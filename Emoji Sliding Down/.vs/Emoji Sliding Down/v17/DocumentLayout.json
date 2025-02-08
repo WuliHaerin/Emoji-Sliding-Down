@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|d:\\unityproject\\emoji sliding down\\emoji sliding down\\assets\\_emojislidingdown\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\assets\\_emojislidingdown\\scripts\\deathplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C6CE2-AF09-5F6C-E257-16D5A2047057}|Assembly-CSharp.csproj|solutionrelative:assets\\_emojislidingdown\\scripts\\deathplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Ad\\Ad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:51:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAQwLYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:44:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\InputController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\InputController.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\InputController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:08:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:43:49.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloudController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\CloudController.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\CloudController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\CloudController.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\CloudController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:40:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA2wEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:49:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeathPlane.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\DeathPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\DeathPlane.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\DeathPlane.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\DeathPlane.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:08:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_EmojiSlidingDown\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Sliding Down\\Emoji Sliding Down\\Assets\\_EmojiSlidingDown\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_EmojiSlidingDown\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA4wFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:07:56.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
